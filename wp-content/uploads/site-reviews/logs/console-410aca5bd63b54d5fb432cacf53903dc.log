@@ -1,0 +1,74 @@
+[2024-05-01 19:42:50] ERROR [Database:302] Can&#039;t write; duplicate key in table &#039;#sql-7fc_eeb&#039;
+[2024-05-01 19:42:50] DEBUG [C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\helpers.php:247] Array (
+    [0] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\helpers.php
+        [line] =&gt; 247
+        [function] =&gt; trace
+        [class] =&gt; GeminiLabs\SiteReviews\Modules\Backtrace
+        [type] =&gt; -&gt;
+    )
+    [1] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database.php
+        [line] =&gt; 303
+        [function] =&gt; glsr_trace
+    )
+    [2] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database.php
+        [line] =&gt; 95
+        [function] =&gt; logErrors
+        [class] =&gt; GeminiLabs\SiteReviews\Database
+        [type] =&gt; -&gt;
+    )
+    [3] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database\Tables\AbstractTable.php
+        [line] =&gt; 64
+        [function] =&gt; dbQuery
+        [class] =&gt; GeminiLabs\SiteReviews\Database
+        [type] =&gt; -&gt;
+    )
+    [4] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database\Tables\TableAssignedTerms.php
+        [line] =&gt; 16
+        [function] =&gt; addForeignConstraint
+        [class] =&gt; GeminiLabs\SiteReviews\Database\Tables\AbstractTable
+        [type] =&gt; -&gt;
+    )
+)
+[2024-05-01 19:42:50] ERROR [Database:302] Can&#039;t write; duplicate key in table &#039;#sql-7fc_eeb&#039;
+[2024-05-01 19:42:50] DEBUG [C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\helpers.php:247] Array (
+    [0] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\helpers.php
+        [line] =&gt; 247
+        [function] =&gt; trace
+        [class] =&gt; GeminiLabs\SiteReviews\Modules\Backtrace
+        [type] =&gt; -&gt;
+    )
+    [1] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database.php
+        [line] =&gt; 303
+        [function] =&gt; glsr_trace
+    )
+    [2] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database.php
+        [line] =&gt; 95
+        [function] =&gt; logErrors
+        [class] =&gt; GeminiLabs\SiteReviews\Database
+        [type] =&gt; -&gt;
+    )
+    [3] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database\Tables\AbstractTable.php
+        [line] =&gt; 64
+        [function] =&gt; dbQuery
+        [class] =&gt; GeminiLabs\SiteReviews\Database
+        [type] =&gt; -&gt;
+    )
+    [4] =&gt; Array (
+        [file] =&gt; C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Database\Tables\TableAssignedTerms.php
+        [line] =&gt; 17
+        [function] =&gt; addForeignConstraint
+        [class] =&gt; GeminiLabs\SiteReviews\Database\Tables\AbstractTable
+        [type] =&gt; -&gt;
+    )
+)
+[2024-05-01 19:42:51] DEBUG [C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
+[2024-05-01 19:42:52] DEBUG [C:\MAMP\htdocs\vancouver\wp-content\plugins\site-reviews\plugin\Integrations\Cache\Controller.php:108] cache::flushing
